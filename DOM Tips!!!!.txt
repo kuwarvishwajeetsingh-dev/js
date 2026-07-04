@@ -1,0 +1,7 @@
+// IMPORTANT
+// |
+// |
+// ^
+// documents.querySelector(#id)
+// documents.querySelector(.class)
+// documents.querySelector(tag)
