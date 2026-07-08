@@ -1,0 +1,7 @@
+try catch finaly are used to hande erors!!!!
+Major Question:
+##--> When finaly code is being run instead of error or non error thn we  use irrespective of 
+       using simple console command
+anwer--> finaly is helpful while using functions... it run the finaly code though return is 
+         countered!!!!
+         
